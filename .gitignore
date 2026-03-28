@@ -25,5 +25,6 @@ Thumbs.db
 .mypy_cache/
 .ruff_cache/
 
-# Generated output files
-processed_trader_data.csv
+# Dataset files (raw inputs)
+historical_data.csv
+fear_greed_index.csv
